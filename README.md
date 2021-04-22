@@ -13,7 +13,6 @@ Sign-up Page:
 
 
 
-
 <a href="https://ibb.co/5nt9QWj"><img src="https://i.ibb.co/dL1cN0p/Screenshot-20210423-003648.jpg" alt="Screenshot-20210423-003648" border="0"></a>
 
 
