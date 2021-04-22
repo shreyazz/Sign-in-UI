@@ -70,6 +70,4 @@ flutter run
 4.) How to use external packages
 5.) Navigator
 6.) Page Routing
-
-
 ```
