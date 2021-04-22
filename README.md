@@ -5,7 +5,8 @@ Click on the arrow button to see the page transition.
 
 <br>
 
-##Preview
+## Preview
+
 
 
 Sign-up Page:
