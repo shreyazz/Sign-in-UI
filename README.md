@@ -13,8 +13,8 @@ Sign-up Page:
 
 
 
-https://i.imgur.com/S5lAH0n.jpg
 
+<a href="https://ibb.co/5nt9QWj"><img src="https://i.ibb.co/dL1cN0p/Screenshot-20210423-003648.jpg" alt="Screenshot-20210423-003648" border="0"></a>
 
 
 
@@ -22,7 +22,7 @@ https://i.imgur.com/S5lAH0n.jpg
 Sign-in Page:
 
 
-https://i.imgur.com/daQ1nXv.jpg
+<a href="https://ibb.co/HdQmR1d"><img src="https://i.ibb.co/YZGvJYZ/Screenshot-20210423-003652.jpg" alt="Screenshot-20210423-003652" border="0"></a>
 
 
 
