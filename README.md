@@ -3,7 +3,7 @@
 A simple Sign-up/Sign-in UI made in [Flutter](https://flutter.dev/).
 Click on the arrow button to see the page transition.
 
-
+<br>
 
 ##Preview
 
