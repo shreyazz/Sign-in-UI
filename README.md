@@ -13,7 +13,7 @@ Sign-up Page:
 
 
 
-<a href="https://ibb.co/5nt9QWj"><img src="https://i.ibb.co/dL1cN0p/Screenshot-20210423-003648.jpg" alt="Screenshot-20210423-003648" border="0"></a>
+<a href="https://ibb.co/5nt9QWj"><img height=450 src="https://i.ibb.co/dL1cN0p/Screenshot-20210423-003648.jpg" alt="Screenshot-20210423-003648" border="0"></a>
 
 
 
@@ -21,7 +21,7 @@ Sign-up Page:
 Sign-in Page:
 
 
-<a href="https://ibb.co/HdQmR1d"><img src="https://i.ibb.co/YZGvJYZ/Screenshot-20210423-003652.jpg" alt="Screenshot-20210423-003652" border="0"></a>
+<a href="https://ibb.co/HdQmR1d"><img  height=450 src="https://i.ibb.co/YZGvJYZ/Screenshot-20210423-003652.jpg" alt="Screenshot-20210423-003652" border="0"></a>
 
 
 
