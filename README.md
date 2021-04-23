@@ -52,7 +52,7 @@ Step 3:
 
 Go to the root of the project and use one of these commands to execute the application on your device.
 ```cli
-flutter run --profile --cache-sksl
+flutter run --profile --cache-sksl   (The transition becomes more smooth / lag-free with this command)
 ```
 
 <p align="center"> or </p>
